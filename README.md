@@ -45,9 +45,10 @@ Organized by data structure, then by pattern within it:
 
 ```
 arrays/
-  two-pointers/
-  sliding-window/
-    fixed sliding-window/
+   two-pointers/
+      same diection/
+         sliding-window/
+            fixed sliding-window/
 ```
 
 Each problem file includes:
@@ -61,11 +62,7 @@ Each problem file includes:
 
 | Data Structure | Patterns Covered | Problems Solved |
 |---|---|---|
-| Arrays | — | 0 |
-| Linked Lists | — | 0 |
-| Trees | — | 0 |
-| Graphs | — | 0 |
-| DP | — | 0 |
+| Arrays | 1 | 0 |
 
 ## 🔗 Index
 
