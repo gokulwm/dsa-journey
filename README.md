@@ -66,7 +66,7 @@ Each problem file includes:
 
 ## 🔗 Index
 
-- [Maximum Average Subarray I](array\two_pointers\same_direction\sliding_window\fixed_size\maximum-average-subarray-1.md)
-- [Number of Sub-arrays of Size K and Average ≥ Threshold](array\two_pointers\same_direction\sliding_window\fixed_size\number-of-subarrays-size-k-avg-threshold.md)
+- [Maximum Average Subarray I](array/two_pointers/same_direction/sliding_window/fixed_size/maximum-average-subarray-1.md)
+- [Number of Sub-arrays of Size K and Average ≥ Threshold](array/two_pointers/same_direction/sliding_window/fixed_size/number-of-subarrays-size-k-avg-threshold.md)
 
 _(Links to individual problem files will be added here as they're solved.)_
