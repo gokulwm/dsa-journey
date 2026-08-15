@@ -62,8 +62,11 @@ Each problem file includes:
 
 | Data Structure | Patterns Covered | Problems Solved |
 |---|---|---|
-| Arrays | 1 | 0 |
+| Arrays | 1 | 2 |
 
 ## 🔗 Index
+
+- [Maximum Average Subarray I](array\two_pointers\same_direction\sliding_window\fixed_size\maximum-average-subarray-1.md)
+- [Number of Sub-arrays of Size K and Average ≥ Threshold](array\two_pointers\same_direction\sliding_window\fixed_size\number-of-subarrays-size-k-avg-threshold.md)
 
 _(Links to individual problem files will be added here as they're solved.)_
