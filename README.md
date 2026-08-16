@@ -62,11 +62,11 @@ Each problem file includes:
 
 | Data Structure | Patterns Covered | Problems Solved |
 |---|---|---|
-| Arrays | 1 | 2 |
+| Arrays | 1 | 4 |
 
 ## 🔗 Index
 
 - [Maximum Average Subarray I](array/two_pointers/same_direction/sliding_window/fixed_size/maximum-average-subarray-1.md)
 - [Number of Sub-arrays of Size K and Average ≥ Threshold](array/two_pointers/same_direction/sliding_window/fixed_size/number-of-subarrays-size-k-avg-threshold.md)
-
-_(Links to individual problem files will be added here as they're solved.)_
+- [Maximum Number of Vowels in a Substring of Given Length](array/two_pointers/same_direction/sliding_window/fixed_size/maximum-number-of-substring-in-a-substring-of-given-length.md)
+- [Maximum Points You Can Obtain from Cards](array/two_pointers/same_direction/sliding_window/fixed_size/maximum-points-you-can-obtain-from-cards.md)
