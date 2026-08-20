@@ -1,6 +1,6 @@
 # Maximum Average Subarray I - LeetCode 643
 
-## The Problem - LeetCode 643
+## The Problem
 
 We are given an array of integers `nums` and a number `k`. We need to find `k` consecutive elements (a subarray of length `k`) whose average is the biggest among all such subarrays, and return that average.
 
