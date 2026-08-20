@@ -62,7 +62,7 @@ Each problem file includes:
 
 | Data Structure | Patterns Covered | Problems Solved |
 |---|---|---|
-| Arrays | 1 | 5 |
+| Arrays | 1 | 7 |
 
 ## 🔗 Index
 
@@ -71,3 +71,5 @@ Each problem file includes:
 - [Maximum Number of Vowels in a Substring of Given Length](array/two_pointers/same_direction/sliding_window/fixed_size/maximum-number-of-substring-in-a-substring-of-given-length.md)
 - [Maximum Points You Can Obtain from Cards](array/two_pointers/same_direction/sliding_window/fixed_size/maximum-points-you-can-obtain-from-cards.md)
 - [Contains Duplicate - II](array/two_pointers/same_direction/sliding_window/fixed_size/contains-duplicate-ii.md)
+- [Permutation in String](array/two_pointers/same_direction/sliding_window/fixed_size/permutation-in-string.md)
+- [Find all Anagrams in a String](array/two_pointers/same_direction/sliding_window/fixed_size/find-all-anagrams-in-a-string.md)
