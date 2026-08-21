@@ -62,7 +62,7 @@ Each problem file includes:
 
 | Data Structure | Patterns Covered | Problems Solved |
 |---|---|---|
-| Arrays | 1 | 7 |
+| Arrays | 1 | 8 |
 
 ## 🔗 Index
 
@@ -73,3 +73,4 @@ Each problem file includes:
 - [Contains Duplicate - II](array/two_pointers/same_direction/sliding_window/fixed_size/contains-duplicate-ii.md)
 - [Permutation in String](array/two_pointers/same_direction/sliding_window/fixed_size/permutation-in-string.md)
 - [Find all Anagrams in a String](array/two_pointers/same_direction/sliding_window/fixed_size/find-all-anagrams-in-a-string.md)
+- [Minimum Recolors to get K consecutive Black blocks](array/two_pointers/same_direction/sliding_window/fixed_size/minimum-recolors-to-get-k-consecutive-black-blocks.md)
