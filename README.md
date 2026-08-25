@@ -3,7 +3,7 @@
 > Documenting my day-by-day journey through Data Structures & Algorithms —
 > by understanding template to solving problems pattern by pattern.
 
-`Language: Java` &nbsp; `Status: In Progress` &nbsp; `Problems Solved: 0`
+`Language: Java` &nbsp; `Status: In Progress` &nbsp; `Problems Solved: 9`
 
 ---
 
