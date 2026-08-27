@@ -3,7 +3,7 @@
 > Documenting my day-by-day journey through Data Structures & Algorithms —
 > by understanding template to solving problems pattern by pattern.
 
-`Language: Java` &nbsp; `Status: In Progress` &nbsp; `Problems Solved: 9`
+`Language: Java` &nbsp; `Status: In Progress` &nbsp; `Problems Solved: 10`
 
 ---
 
@@ -49,6 +49,7 @@ arrays/
       same diection/
          sliding-window/
             fixed sliding-window/
+            variable sliding-window/
 ```
 
 Each problem file includes:
@@ -62,7 +63,7 @@ Each problem file includes:
 
 | Data Structure | Patterns Covered | Problems Solved |
 |---|---|---|
-| Arrays | 1 | 9 |
+| Arrays | 2 | 10 |
 
 ## 🔗 Index
 
@@ -75,3 +76,4 @@ Each problem file includes:
 - [Find all Anagrams in a String](array/two_pointers/same_direction/sliding_window/fixed_size/find-all-anagrams-in-a-string.md)
 - [Minimum Recolors to get K consecutive Black blocks](array/two_pointers/same_direction/sliding_window/fixed_size/minimum-recolors-to-get-k-consecutive-black-blocks.md)
 - [Repeated DNA Sequences](array/two_pointers/same_direction/sliding_window/fixed_size/repeated-dna-sequences.md)
+- [Longest Substring Without Reapting Characters](array/two_pointers/same_direction/sliding_window/variable_size/longest-substring-without-repeating-characters.md)
