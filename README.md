@@ -3,7 +3,7 @@
 > Documenting my day-by-day journey through Data Structures & Algorithms —
 > by understanding template to solving problems pattern by pattern.
 
-`Language: Java` &nbsp; `Status: In Progress` &nbsp; `Problems Solved: 10`
+`Language: Java` &nbsp; `Status: In Progress` &nbsp; `Problems Solved: 11`
 
 ---
 
@@ -77,3 +77,4 @@ Each problem file includes:
 - [Minimum Recolors to get K consecutive Black blocks](array/two_pointers/same_direction/sliding_window/fixed_size/minimum-recolors-to-get-k-consecutive-black-blocks.md)
 - [Repeated DNA Sequences](array/two_pointers/same_direction/sliding_window/fixed_size/repeated-dna-sequences.md)
 - [Longest Substring Without Reapting Characters](array/two_pointers/same_direction/sliding_window/variable_size/longest-substring-without-repeating-characters.md)
+- [Minimum Size Subarray Sum](array/two_pointers/same_direction/sliding_window/variable_size/minimum-size-subarray-sum.md)
