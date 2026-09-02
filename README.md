@@ -3,7 +3,7 @@
 > Documenting my day-by-day journey through Data Structures & Algorithms —
 > by understanding template to solving problems pattern by pattern.
 
-`Language: Java` &nbsp; `Status: In Progress` &nbsp; `Problems Solved: 13`
+`Language: Java` &nbsp; `Status: In Progress` &nbsp; `Problems Solved: 14`
 
 ---
 
@@ -63,7 +63,7 @@ Each problem file includes:
 
 | Data Structure | Patterns Covered | Problems Solved |
 |---|---|---|
-| Arrays | 2 | 13 |
+| Arrays | 2 | 14 |
 
 ## 🔗 Index
 
@@ -79,4 +79,5 @@ Each problem file includes:
 - [Longest Substring Without Reapting Characters](array/two_pointers/same_direction/sliding_window/variable_size/longest-substring-without-repeating-characters.md)
 - [Minimum Size Subarray Sum](array/two_pointers/same_direction/sliding_window/variable_size/minimum-size-subarray-sum.md)
 - [Maximum Consecutive Ones III](array/two_pointers/same_direction/sliding_window/variable_size/max-consecutive-ones-iii.md)
-- [Longest Substring At Most K Distinct](array/two_pointers/same_direction/sliding_window/variable_size/longest-substring-at-most-k-distinct.md)
+- [Longest SubArray At Most K Distinct](array/two_pointers/same_direction/sliding_window/variable_size/longest-subarray-at-most-k-distinct.md)
+- [Longest Substring At Most 2 Distinct](array/two_pointers/same_direction/sliding_window/variable_size/longest-substring-with-at-most-2-distinct-characters.md)

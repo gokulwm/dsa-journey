@@ -1,4 +1,4 @@
-# Longest Substring with At Most K Distinct Characters - LeetCode 340
+# Longest SubArray with At Most K Distinct Characters - LeetCode 340
 
 ## The Problem
 
