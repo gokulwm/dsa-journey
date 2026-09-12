@@ -11,7 +11,7 @@ A substring must be contiguous — the characters have to sit next to each other
 ```
 Input:  s = "abcabcbb"
 Output: 3
-``
+```
 
 Walking through it window by window:
 
