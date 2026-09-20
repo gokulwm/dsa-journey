@@ -3,7 +3,7 @@
 > Documenting my day-by-day journey through Data Structures & Algorithms —
 > by understanding template to solving problems pattern by pattern.
 
-`Language: Java` &nbsp; `Status: In Progress` &nbsp; `Problems Solved: 14`
+`Language: Java` &nbsp; `Status: In Progress` &nbsp; `Problems Solved: 15`
 
 ---
 
@@ -50,6 +50,7 @@ arrays/
          sliding-window/
             fixed sliding-window/
             variable sliding-window/
+      opposite direction/
 ```
 
 Each problem file includes:
@@ -63,7 +64,7 @@ Each problem file includes:
 
 | Data Structure | Patterns Covered | Problems Solved |
 |---|---|---|
-| Arrays | 2 | 14 |
+| Arrays | 3 | 15 |
 
 ## 🔗 Index
 
@@ -81,3 +82,4 @@ Each problem file includes:
 - [Maximum Consecutive Ones III](array/two_pointers/same_direction/sliding_window/variable_size/max-consecutive-ones-iii.md)
 - [Longest SubArray At Most K Distinct](array/two_pointers/same_direction/sliding_window/variable_size/longest-subarray-at-most-k-distinct.md)
 - [Longest Substring At Most 2 Distinct](array/two_pointers/same_direction/sliding_window/variable_size/longest-substring-with-at-most-2-distinct-characters.md)
+- [Container With Most Water](array/two_pointers/opposite_direction/container-with-most-water.md)

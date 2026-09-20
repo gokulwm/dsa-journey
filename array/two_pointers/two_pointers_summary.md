@@ -89,4 +89,4 @@ Since pointers never move backward (or only move inward towards each other), the
 | `02-variable-sliding-window-maximum.md` | Variable-size window — longest/maximum |
 | `03-variable-sliding-window-minimum.md` | Variable-size window — smallest/minimum |
 | `04-read-write-two-pointers.md` | Read–write (fast–slow) in-place compaction |
-| `opposite-direction-two-pointers.md` | Opposite direction (converging) array scanning |
+| `05-opposite-direction-two-pointers.md` | Opposite direction (converging) array scanning |
