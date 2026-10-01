@@ -3,7 +3,7 @@
 > Documenting my day-by-day journey through Data Structures & Algorithms —
 > by understanding template to solving problems pattern by pattern.
 
-`Language: Java` &nbsp; `Status: In Progress` &nbsp; `Problems Solved: 16`
+`Language: Java` &nbsp; `Status: In Progress` &nbsp; `Problems Solved: 17`
 
 ---
 
@@ -64,7 +64,7 @@ Each problem file includes:
 
 | Data Structure | Patterns Covered | Problems Solved |
 |---|---|---|
-| Arrays | 3 | 16 |
+| Arrays | 3 | 17 |
 
 ## 🔗 Index
 
@@ -84,3 +84,4 @@ Each problem file includes:
 - [Longest Substring At Most 2 Distinct](array/two_pointers/same_direction/sliding_window/variable_size/longest-substring-with-at-most-2-distinct-characters.md)
 - [Container With Most Water](array/two_pointers/opposite_direction/container-with-most-water.md)
 - [Two Sum II](array/two_pointers/opposite_direction/two-sum-ii-input-array-is-sorted.md)
+- [3 Sum ](array/two_pointers/opposite_direction/3sum.md)
