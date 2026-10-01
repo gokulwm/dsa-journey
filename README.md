@@ -3,7 +3,7 @@
 > Documenting my day-by-day journey through Data Structures & Algorithms —
 > by understanding template to solving problems pattern by pattern.
 
-`Language: Java` &nbsp; `Status: In Progress` &nbsp; `Problems Solved: 17`
+`Language: Java` &nbsp; `Status: In Progress` &nbsp; `Problems Solved: 18`
 
 ---
 
@@ -64,7 +64,7 @@ Each problem file includes:
 
 | Data Structure | Patterns Covered | Problems Solved |
 |---|---|---|
-| Arrays | 3 | 17 |
+| Arrays | 3 | 18 |
 
 ## 🔗 Index
 
@@ -85,3 +85,4 @@ Each problem file includes:
 - [Container With Most Water](array/two_pointers/opposite_direction/container-with-most-water.md)
 - [Two Sum II](array/two_pointers/opposite_direction/two-sum-ii-input-array-is-sorted.md)
 - [3 Sum ](array/two_pointers/opposite_direction/3sum.md)
+- [4 Sum ](array/two_pointers/opposite_direction/4sum.md)
