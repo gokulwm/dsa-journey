@@ -3,7 +3,7 @@
 > Documenting my day-by-day journey through Data Structures & Algorithms —
 > by understanding template to solving problems pattern by pattern.
 
-`Language: Java` &nbsp; `Status: In Progress` &nbsp; `Problems Solved: 20`
+`Language: Java` &nbsp; `Status: In Progress` &nbsp; `Problems Solved: 21`
 
 ---
 
@@ -64,7 +64,7 @@ Each problem file includes:
 
 | Data Structure | Patterns Covered | Problems Solved |
 |---|---|---|
-| Arrays | 3 | 20 |
+| Arrays | 3 | 21 |
 
 ## 🔗 Index
 
@@ -88,3 +88,4 @@ Each problem file includes:
 - [4 Sum](array/two_pointers/opposite_direction/4sum.md)
 - [3 Sum Closest](array/two_pointers/opposite_direction/3sum-closest.md)
 - [Trapping Rain Water](array/two_pointers/opposite_direction/trapping-rain-water.md)
+- [Two Sum less than k](array/two_pointers/opposite_direction/two-sum-less-than-k.md)
