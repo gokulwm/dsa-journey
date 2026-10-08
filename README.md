@@ -3,7 +3,7 @@
 > Documenting my day-by-day journey through Data Structures & Algorithms —
 > by understanding template to solving problems pattern by pattern.
 
-`Language: Java` &nbsp; `Status: In Progress` &nbsp; `Problems Solved: 23`
+`Language: Java` &nbsp; `Status: In Progress` &nbsp; `Problems Solved: 24`
 
 ---
 
@@ -65,7 +65,7 @@ Each problem file includes:
 
 | Data Structure | Patterns Covered | Problems Solved |
 |---|---|---|
-| Arrays | 3 | 23 |
+| Arrays | 3 | 24 |
 
 ## 🔗 Index
 
@@ -92,3 +92,4 @@ Each problem file includes:
 - [Two Sum less than k](array/two_pointers/opposite_direction/two-sum-less-than-k.md)
 - [Remove Duplicates from Sorted Array](array\two_pointers\same_direction\general\remove-duplicates-from-sorted-array.md)
 - [Remove Duplicates from Sorted Array II](array\two_pointers\same_direction\general\remove-duplicates-from-sorted-array-ii.md)
+- [Move Zeroes](array\two_pointers\same_direction\general\move-zeroes.md)
