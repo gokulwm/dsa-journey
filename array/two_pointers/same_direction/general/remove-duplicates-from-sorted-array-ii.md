@@ -1,4 +1,4 @@
-# LeetCode 80: Remove Duplicates from Sorted Array II
+# Remove Duplicates from Sorted Array II - LeetCode 80
 
 ## 1. The Problem
 
