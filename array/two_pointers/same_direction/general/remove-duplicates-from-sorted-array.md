@@ -1,4 +1,4 @@
-# Remove Duplicates from Sorted Array
+# Remove Duplicates from Sorted Array - LeetCode 26
 
 ## 1. The Problem
 
