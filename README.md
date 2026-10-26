@@ -3,7 +3,7 @@
 > Documenting my day-by-day journey through Data Structures & Algorithms —
 > by understanding template to solving problems pattern by pattern.
 
-`Language: Java` &nbsp; `Status: In Progress` &nbsp; `Problems Solved: 26`
+`Language: Java` &nbsp; `Status: In Progress` &nbsp; `Problems Solved: 27`
 
 ---
 
@@ -53,6 +53,8 @@ arrays/
          general/
       opposite direction/
    prefixsum/
+linked_list/
+   delete_sums/
 ```
 
 Each problem file includes:
@@ -66,7 +68,7 @@ Each problem file includes:
 
 | Data Structure | Patterns Covered | Problems Solved |
 |---|---|---|
-| Arrays | 4 | 25 |
+| Arrays | 5 | 27 |
 
 ## 🔗 Index
 
