@@ -3,7 +3,7 @@
 > Documenting my day-by-day journey through Data Structures & Algorithms —
 > by understanding template to solving problems pattern by pattern.
 
-`Language: Java` &nbsp; `Status: In Progress` &nbsp; `Problems Solved: 27`
+`Language: Java` &nbsp; `Status: In Progress` &nbsp; `Problems Solved: 28`
 
 ---
 
@@ -68,7 +68,7 @@ Each problem file includes:
 
 | Data Structure | Patterns Covered | Problems Solved |
 |---|---|---|
-| Arrays | 5 | 27 |
+| Arrays | 5 | 28 |
 
 ## 🔗 Index
 
