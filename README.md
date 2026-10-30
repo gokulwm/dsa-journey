@@ -68,7 +68,8 @@ Each problem file includes:
 
 | Data Structure | Patterns Covered | Problems Solved |
 |---|---|---|
-| Arrays | 5 | 28 |
+| Array | 4 | 26 |
+| Linked List | 1 | 2 |
 
 ## 🔗 Index
 
@@ -98,3 +99,5 @@ Each problem file includes:
 - [Move Zeroes](array\two_pointers\same_direction\general\move-zeroes.md)
 - [Merge Sorted Array](array\two_pointers\same_direction\general\merge-sorted-array.md)
 - [Subarray Sum Equals k](array\prefixsum\subarray-sum-equals-k.md)
+- [Delete Node in a Linked List](linked_list\delete_sums\delete-node-in-a-linked-list.md)
+- [Delete Nodes From Linked List Present in Array](linked_list\delete_sums\delete-nodes-from-linked-list-present-in-array.md)
