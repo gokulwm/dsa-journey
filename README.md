@@ -3,7 +3,7 @@
 > Documenting my day-by-day journey through Data Structures & Algorithms —
 > by understanding template to solving problems pattern by pattern.
 
-`Language: Java` &nbsp; `Status: In Progress` &nbsp; `Problems Solved: 30`
+`Language: Java` &nbsp; `Status: In Progress` &nbsp; `Problems Solved: 31`
 
 ---
 
@@ -70,7 +70,7 @@ Each problem file includes:
 | Data Structure | Patterns Covered | Problems Solved |
 |---|---|---|
 | Array | 4 | 26 |
-| Linked List | 2 | 4 |
+| Linked List | 2 | 5 |
 
 ## 🔗 Index
 
@@ -104,3 +104,4 @@ Each problem file includes:
 - [Delete Nodes From Linked List Present in Array](linked_list\delete_sums\delete-nodes-from-linked-list-present-in-array.md)
 - [Delete the Middle Node of a Linked List](linked_list\delete_sums\delete-the-middle-node-of-a-linked-list.md)
 - [Remove Linked List Elements](linked_list\remove_related_sums\remove-linked-list-elements.md)
+- [Remove Nodes From Linked List](linked_list\remove_related_sums\remove-nodes-from-linked-list.md)
