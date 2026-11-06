@@ -69,7 +69,7 @@ Each problem file includes:
 
 | Data Structure | Patterns Covered | Problems Solved |
 |---|---|---|
-| Array | 4 | 26 |
+| Array | 4 | 27 |
 | Linked List | 2 | 6 |
 
 ## 🔗 Index
