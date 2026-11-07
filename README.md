@@ -46,16 +46,18 @@ Organized by data structure, then by pattern within it:
 ```
 arrays/
    two-pointers/
-      same diection/
+      same_diection/
          sliding-window/
-            fixed sliding-window/
-            variable sliding-window/
+            fixed_sliding-window/
+            variable_sliding-window/
          general/
-      opposite direction/
+      opposite_direction/
    prefixsum/
 linked_list/
    delete_related_sums/
    remove_related_sums/
+pririty_queue/
+   event_simulation/
 ```
 
 Each problem file includes:
@@ -71,6 +73,7 @@ Each problem file includes:
 |---|---|---|
 | Array | 4 | 27 |
 | Linked List | 2 | 7 |
+| Priority Queue | 1 | 1 |
 
 ## 🔗 Index
 

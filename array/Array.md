@@ -8,7 +8,7 @@ This section covers the fundamental properties, memory mechanics, and basic oper
 An array is a foundational data structure characterized by a few strict rules:
 
 <p align="center">
-  <img src="images/Array_properties.png" alt="Array Properties" width="80%"><br>
+  <img src="assessts/Array_properties.png" alt="Array Properties" width="80%"><br>
   <em>Figure: Properties of Array Data Structure</em>
 </p>
 
